@@ -1,9 +1,9 @@
-## Date: 05-09-2026
+## Date: <today's date>
 **Today's Work:**
-- Solved Week 2 topic — [list your class_problems classes] and [list your assigment_problems classes]
+- Solved Week 3 topic — [list class_problems] and [list assigment_problems]
 
 **Next Session Plan:**
-- Move to Week 3 topic
+- Move to Week 4 topic
 
 **Issues Faced:**
 - None
