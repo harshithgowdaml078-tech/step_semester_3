@@ -1,10 +1,12 @@
 ## Date: <today's date>
 **Today's Work:**
-- Solved Week 4 topic — [list class_problems] and [list assigment_problems]
+- Solved Week 5 topic (Arrays & Methods) — Hackathon Score Booster, Duplicate Team Finder, Top-3 Podium Finder (class problems); Seating Grid Optimizer, Placement Drive Shortlisting & Ranking (assignment problems)
 
 **Next Session Plan:**
-- Move to Week 5 topic
+- Move to Week 6 topic
 
 **Issues Faced:**
 - None
----
+---git add README.md
+  git commit -m "Update README - Session 5 log"
+  git push
