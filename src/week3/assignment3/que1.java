@@ -1,0 +1,15 @@
+package week3.assignment3;
+
+public class que1 {
+    static class Book {
+        String title;
+        double price;
+    }
+
+    public static void main(String[] args) {
+        Book b = new Book();
+        b.title = "Clean Code";
+        b.price = 650.0;
+        System.out.println("Title: " + b.title + " | Price: Rs " + b.price);
+    }
+}
